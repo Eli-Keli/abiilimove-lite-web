@@ -1,2 +1,3 @@
 # abiilimove-lite-web
-AbiliMove Lite FIREBASE STUDIO NEXTJS TYPESCRIPT
+
+This is a NextJS starter project for AbiliMove Lite, bootstrapped with Firebase Studio.
