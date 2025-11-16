@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
-import { Car, Wheelchair, User, Phone } from "lucide-react";
+import { Car, Accessibility, User, Phone } from "lucide-react";
 
 const availableVehicles = [
   {
@@ -91,7 +91,7 @@ export default function LocatePage() {
                     <div className="flex flex-wrap gap-2">
                       {vehicle.features.map((feature) => (
                         <Badge key={feature} variant="secondary" className="flex items-center gap-1">
-                          <Wheelchair className="size-3" />
+                          <Accessibility className="size-3" />
                           {feature}
                         </Badge>
                       ))}
