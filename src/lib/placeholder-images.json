@@ -1,3 +1,34 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "dashboardRoutePlanner",
+      "description": "A stylized map showing a route from one point to another.",
+      "imageUrl": "https://images.unsplash.com/photo-1569917002373-28a8c52a4891?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWFwJTIwcm91dGV8ZW58MHx8fHwxNzYzMjMwNjY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "map route"
+    },
+    {
+      "id": "dashboardFindRide",
+      "description": "A person in a wheelchair waiting for an accessible van.",
+      "imageUrl": "https://images.unsplash.com/photo-1597244231257-e72375d34671?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhY2Nlc3NpYmxlJTIwdmFufGVufDB8fHx8MTc2MzMzMjk2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "accessible van"
+    },
+    {
+      "id": "dashboardRateStop",
+      "description": "A person using their phone at a bus stop.",
+      "imageUrl": "https://images.unsplash.com/photo-1610376094992-6c3913ce221c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxidXMlMjBzdG9wfGVufDB8fHx8MTc2MzMzMjk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bus stop"
+    },
+    {
+      "id": "dashboardUssd",
+      "description": "A simple feature phone displaying a USSD menu.",
+      "imageUrl": "https://images.unsplash.com/photo-1759680191098-8a622ad64a6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmZWF0dXJlJTIwcGhvbmV8ZW58MHx8fHwxNzYzMzMyOTY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "feature phone"
+    },
+    {
+      "id": "locateMap",
+      "description": "A map of Nairobi with pins indicating vehicle locations.",
+      "imageUrl": "https://images.unsplash.com/photo-1730317195705-8a265a59ed1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxOYWlyb2JpJTIwbWFwfGVufDB8fHx8MTc2MzMzMjk2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "Nairobi map"
+    }
+  ]
 }
